@@ -18,3 +18,15 @@
 = poistaa commitin
 <h3>git reset</h3>
 = voidaan palata takaisin tiettyyn vanhaan commitiin. Komento poistaa kaikki tehdyt commitit viitatun commitin jälkeen. Komentoa ei pidä käyttää julkisesti, vaan sen sijaan komentoa git revert, joka on mainittu yläpuolella.
+<h3>Paikallinen git työhakemisto GitHub ympäristöön:</h3>
+= Git remote add origin https://githubrepositio.com -komento kytkee versiohallinnan repositioon, git init -komento 
+<h3>tiedon lähettäminen paikallisesta työhakemistosta GitHubiin:</h3>
+= Githubiin repositorio, johon tietoa voidaan lähettää. Paikallinen git työhakemisto sinne ja git remote add upstream https://githubrepositio.com -komennolla tietoja sinne. Repositoriosta tietojen lataus git pull -komennolla.
+<h3>Fork</h3>
+Fork on repositorio joka on syntynyt fork toiminnon takia kopiona toisen Github repositoriosta. Fork:n omistaa kopion luonut henkilö. 
+Vieraasta remotesta sisällön lataus omaan työhakemistoon komennolla git clone (nettisivusto).
+
+
+
+![image](https://user-images.githubusercontent.com/93643733/149132448-8f010c26-16c0-456a-a4b0-64412f6552f8.png)
+
