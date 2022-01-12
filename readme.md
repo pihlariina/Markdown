@@ -25,8 +25,10 @@
 <h3>Fork</h3>
 Fork on repositorio joka on syntynyt fork toiminnon takia kopiona toisen Github repositoriosta. Fork:n omistaa kopion luonut henkilö. 
 Vieraasta remotesta sisällön lataus omaan työhakemistoon komennolla git clone (nettisivusto).
+<h3>Upstreamin lisääminen</h3>
+komennolla git remote add upstream https://linkkivieraaseenrepositorioon.com
+sitten git remote -v
+alkuperäisessä repositoriossa on muutoksia ja se pullataan paikalliseen työhakemistoon komennolla git fetch upstream , git merge upstream/main
 
-
-
-<h5>![image](https://user-images.githubusercontent.com/93643733/149132448-8f010c26-16c0-456a-a4b0-64412f6552f8.png)</h5>
+![image](https://user-images.githubusercontent.com/93643733/149132448-8f010c26-16c0-456a-a4b0-64412f6552f8.png)
 
