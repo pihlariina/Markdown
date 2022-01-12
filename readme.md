@@ -28,5 +28,5 @@ Vieraasta remotesta sisällön lataus omaan työhakemistoon komennolla git clone
 
 
 
-![image](https://user-images.githubusercontent.com/93643733/149132448-8f010c26-16c0-456a-a4b0-64412f6552f8.png)
+<h5>![image](https://user-images.githubusercontent.com/93643733/149132448-8f010c26-16c0-456a-a4b0-64412f6552f8.png)</h5>
 
