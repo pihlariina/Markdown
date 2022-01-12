@@ -1,7 +1,5 @@
 
-## Git Ohjeet
-
-<h1>Gitin ohjeita</h1>
+<h1>Git Ohjeet</h1>
 
 <h2>Git peruskomennot:</h2>
 <h3>Git add</h3>
